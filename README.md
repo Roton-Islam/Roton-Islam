@@ -1,7 +1,6 @@
 ## Hi there 👋
 ### My name is Roton Islam
-### Hi there 👋, My name is Roton Islam
-#### I am frontend developer . done the continue  I am a passionate tech lover, a problem solver & always ready to face new challenges.
+#### I am frontend developer done the continue . I am a passionate tech lover, a problem solver & always ready to face new challenges.
 ![I am frontend developer . done the continue  I am a passionate tech lover, a problem solver & always ready to face new challenges.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a professional frontend developer . I am improving my web development skills. about making error-free websites with 100% client satisfaction. Most of the time I work with React Js but some technologies I enjoy working with include ReactJS, JavaScript as well as .
