@@ -32,7 +32,7 @@ I am a passionate **Frontend Developer** dedicated to building fast, responsive,
 
 ### ⚡ Featured Projects
 
-- 🚀 **[Project Name 1](Live Link):** High-performance e-commerce frontend built with Next.js & Tailwind CSS.
+- 🚀 **[lumacart-ecommerce]([Live Link](https://lumacart-ecommerce-8pckar29d-roton-projects.vercel.app?utm_source=chatgpt.com)):** High-performance e-commerce frontend built with Next.js & Tailwind CSS.
 - ⚛️ **[Project Name 2](Live Link):** Interactive dashboard application using React.js.
 
 ---
