@@ -1,8 +1,6 @@
 # Hi there, I'm Roton Islam 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&width=435&lines=Frontend+Developer;React.js+%26+Next.js+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
-</p>
+### Frontend Developer
 
 I am a passionate **Frontend Developer** dedicated to building fast, responsive, and visually appealing web applications. I focus on writing clean, maintainable code and delivering 100% client satisfaction.
 
@@ -10,35 +8,34 @@ I am a passionate **Frontend Developer** dedicated to building fast, responsive,
 
 ### 🛠️ Tech Stack & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roton-Islam&show_icons=true&theme=tokyonight" alt="Roton's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roton-Islam&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roton-Islam&show_icons=true&theme=radial" alt="Roton's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roton-Islam&layout=compact&theme=radial" alt="Top Languages" height="150" />
 </p>
 
 ---
 
-### ⚡ Featured Projects
+### 🚀 Featured Projects
 
-- 🚀 **[lumacart-ecommerce]([Live Link]())):** High-performance e-commerce frontend built with Next.js & Tailwind CSS.
-- ⚛️ **[Project Name 2](Live Link) lumacart-ecommerce-a5gnl6ql6-roton-projects.vercel.app](https://vercel.com/roton-projects/lumacart-ecommerce/CByHjUncvNu2sWdAJp3fe2GvpSuZ:** Interactive dashboard application using React.js.
+* 🛒 **[Lumacart Ecommerce](https://lumacart-ecommerce.vercel.app):** High-performance e-commerce frontend built with Next.js & Tailwind CSS.
+* 📊 **[Interactive Dashboard](https://lumacart-ecommerce-a5gnl6ql6-roton-projects.vercel.app):** Interactive dashboard application built using React.js.
 
 ---
 
 ### 🌐 Connect with Me
 
-- 💼 **Fiverr:** [Fiverr Profile Link](#)
-- 💼 **LinkedIn:** [LinkedIn Profile Link](#)
-- 🌐 **Portfolio:** [Portfolio Website Link](#)
+* 💼 **LinkedIn:** [Roton Islam](https://linkedin.com/in/roton-islam)
+* 💚 **Fiverr:** [Fiverr Profile](https://fiverr.com)
