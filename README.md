@@ -21,8 +21,8 @@ I am a passionate **Frontend Developer** dedicated to building fast, responsive,
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Roton-Islam&show_icons=true&theme=radial" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Roton-Islam&layout=compact&theme=radial" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Roton-Islam&show_icons=true&theme=radial" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Roton-Islam&layout=compact&theme=radial" width="48%" />
 </p>
 
 ---
